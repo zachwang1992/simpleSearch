@@ -1,0 +1,44 @@
+;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("C:/Users/drago/AppData/Local/Temp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "C:/Users/drago/.IdeaIC2019.2/config/plugins/Scala/repo/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+runMain test.SimpleSearch C:\\Users\\drago\\Downloads
+ runMain test.SimpleSearch E:\study\scala\practice\Text Files-20190922T215354Z-001\Text Files
+ runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+ runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+unMain test.SimpleSearch E:\study\scala\practice\Text-Files
+ runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+ runMain test.SimpleSearch dfh
+ runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+ runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+runMain test.SimpleSearch E:\\study\\scala\\practice\\Text-Files
+runMain test.SimpleSearch E:\study\scala\practice\task
+runMain test.SimpleSearch E:\\study\\scala\\practice\\Text-Files
+runMain test.SimpleSearch E:\study\scala\practice\task
+runMain test.SimpleSearch dsgsd
+runMain test.SimpleSearch
+runMain test.SimpleSearch dsgsd
+runMain test.SimpleSearch E:\study\scala\practice\task
+runMain test.SimpleSearch E:\study\scala\practice
+ runMain test.SimpleSearch E:\\study\\scala\\practice\\Text-Files
+runMain test.SimpleSearch E:\\study\\scala\\practice\\Text-Files
+runMain test.SimpleSearch dahkjsd
+runMain test.SimpleSearch E:\study\scala\practice\task
+runMain test.SimpleSearch
+This should read all the text files in the given directory, building an in memory representation of the
+files and their contents, and then give a command prompt at which interactive searches can be
+performed.This should read all the text files in the given directory, building an in memory representation of the
+files and their contents, and then give a command prompt at which interactive searches can be
+runMain test.SimpleSearch E:\study\scala\practice\task
+E:\study\scala\practice\Text-Files
+E:\study\scala\practice\TextFiles
+runMain test.SimpleSearch E:\study\scala\practice\Text-Files
+Running test.SimpleSearch E:\study\scala\practice\TextFiles
+runMain test.SimpleSearch E:\study\scala\practice\TextFiles
+ runMain test.SimpleSearch
+runMain test.SimpleSearch E:\study\scala\practice
+runMain test.SimpleSearch gtgjfgj
+runMain test.SimpleSearch E:\study\scala\practice\task
+runMain test.SimpleSearch E:\study\scala\practice\TextFiles

@@ -1,0 +1,1 @@
+scalac -classpath E:\study\scala\practice\task\target\scala-2.12\classes -bootclasspath C:\Users\drago\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.4.jar E:\study\scala\practice\task\src\main\scala\test\SimpleSearch.scala
