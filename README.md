@@ -11,7 +11,7 @@ This should read all the text files in the given directory, building an in memor
 e.g.
 ```scala
 $ sbt
-$ runMain test.SimpleSearch E:\study\scala\practice\task
+$ runMain test.SimpleSearch E:\study\scala\practice\TextFiles
 ```
 An example session is as follows
 
